@@ -115,3 +115,17 @@ color:white;
 text-align:center;
 padding:20px;
 }
+.avatar{
+width:180px;
+height:180px;
+border-radius:50%;
+background:white;
+color:#006b3f;
+font-size:70px;
+font-weight:bold;
+display:flex;
+justify-content:center;
+align-items:center;
+margin:0 auto 20px;
+border:5px solid white;
+  }
